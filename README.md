@@ -18,3 +18,13 @@ Link: https://github.com/Astrobotics/Library-for-TFT-2.4-2.8-3.5-inch-LCD/releas
 
 ![1](https://github.com/Astrobotics/Library-for-TFT-2.4-2.8-3.5-inch-LCD/blob/main/sample3.png)
 
+
+
+
+
+# Disclamer:
+
+All the Libraries Codes and are from Adafruit. 
+
+You can download the Libraries directly at Library manager in arduino IDE.
+
